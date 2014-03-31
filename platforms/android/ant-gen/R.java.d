@@ -1,0 +1,26 @@
+C:\terrafirma\platforms\android\ant-gen\com\terrafirma\Homebanking\R.java \
+ : C:\terrafirma\platforms\android\res\drawable\icon.png \
+C:\terrafirma\platforms\android\res\drawable\splash.png \
+C:\terrafirma\platforms\android\res\drawable-hdpi\icon.png \
+C:\terrafirma\platforms\android\res\drawable-hdpi\ic_action_next_item.png \
+C:\terrafirma\platforms\android\res\drawable-hdpi\ic_action_previous_item.png \
+C:\terrafirma\platforms\android\res\drawable-hdpi\ic_action_remove.png \
+C:\terrafirma\platforms\android\res\drawable-hdpi\splash.png \
+C:\terrafirma\platforms\android\res\drawable-ldpi\icon.png \
+C:\terrafirma\platforms\android\res\drawable-ldpi\splash.png \
+C:\terrafirma\platforms\android\res\drawable-mdpi\icon.png \
+C:\terrafirma\platforms\android\res\drawable-mdpi\ic_action_next_item.png \
+C:\terrafirma\platforms\android\res\drawable-mdpi\ic_action_previous_item.png \
+C:\terrafirma\platforms\android\res\drawable-mdpi\ic_action_remove.png \
+C:\terrafirma\platforms\android\res\drawable-mdpi\splash.png \
+C:\terrafirma\platforms\android\res\drawable-xhdpi\icon.png \
+C:\terrafirma\platforms\android\res\drawable-xhdpi\ic_action_next_item.png \
+C:\terrafirma\platforms\android\res\drawable-xhdpi\ic_action_previous_item.png \
+C:\terrafirma\platforms\android\res\drawable-xhdpi\ic_action_remove.png \
+C:\terrafirma\platforms\android\res\drawable-xhdpi\splash.png \
+C:\terrafirma\platforms\android\res\drawable-xxhdpi\ic_action_next_item.png \
+C:\terrafirma\platforms\android\res\drawable-xxhdpi\ic_action_previous_item.png \
+C:\terrafirma\platforms\android\res\drawable-xxhdpi\ic_action_remove.png \
+C:\terrafirma\platforms\android\res\values\strings.xml \
+C:\terrafirma\platforms\android\res\xml\config.xml \
+C:\terrafirma\platforms\android\ant-build\AndroidManifest.xml \
