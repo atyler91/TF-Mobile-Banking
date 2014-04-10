@@ -14,10 +14,7 @@
     // Cordova is ready
     //
     function onDeviceReady() {
-         var ref = window.open('http://70.61.212.124:8083', '_blank', 'location=yes');
-         ref.addEventListener('loadstart', function() { alert('start: ' + event.url); });
-         ref.addEventListener('loadstop', function() { alert('stop: ' + event.url); });
-         ref.addEventListener('exit', function() { alert(event.type); });
+         var ref = window.open('http://70.61.212.124:8083', '_blank', 'location=no, toolbar=no');
     }
 
     </script>
