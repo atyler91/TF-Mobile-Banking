@@ -5,7 +5,7 @@
  * should not be modified by hand.
  */
 
-package com.terrafirma.Homebanking;
+package com.terrafirma.MobileBanking;
 
 public final class R {
     public static final class attr {
